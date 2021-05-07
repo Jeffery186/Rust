@@ -1,0 +1,3 @@
+"M:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Rust.dir/objects.a
+M:\mingw64\mingw64\bin\ar.exe cr CMakeFiles\Rust.dir/objects.a @CMakeFiles\Rust.dir\objects1.rsp
+M:\mingw64\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Rust.dir/objects.a -Wl,--no-whole-archive -o Rust.exe -Wl,--out-implib,libRust.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Rust.dir\linklibs.rsp

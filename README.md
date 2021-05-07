@@ -6,3 +6,5 @@
 // cargo build --release -发布构建(代码会运行的更快，但编译的时间会更长)
 // 尽量用cargo
 ```
+
+https://kaisery.github.io/trpl-zh-cn/ch01-01-installation.html
